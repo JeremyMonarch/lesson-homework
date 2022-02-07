@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\apara\\.nuget\\packages\\": {}
+    "C:\\Users\\Good_Boy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectC#\\lesson-homework\\LN-HW\\lesson3\\lesson3.csproj",
+      "projectUniqueName": "C:\\ln.hw\\clone()\\LN-HW\\lesson3\\lesson3.csproj",
       "projectName": "lesson3",
-      "projectPath": "C:\\ProjectC#\\lesson-homework\\LN-HW\\lesson3\\lesson3.csproj",
-      "packagesPath": "C:\\Users\\apara\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjectC#\\lesson-homework\\LN-HW\\lesson3\\obj\\",
+      "projectPath": "C:\\ln.hw\\clone()\\LN-HW\\lesson3\\lesson3.csproj",
+      "packagesPath": "C:\\Users\\Good_Boy\\.nuget\\packages\\",
+      "outputPath": "C:\\ln.hw\\clone()\\LN-HW\\lesson3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\apara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Good_Boy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
