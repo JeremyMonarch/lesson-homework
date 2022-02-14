@@ -72,12 +72,13 @@ namespace classwork6_array
                 Console.WriteLine($"\t{++i}item of array is {item}");
             }
             Console.WriteLine("-------------------------------------------");
-            
+
             i = -1;
-            foreach (int item in randomArray)
+            foreach (int item in Sort(randomArray))
             {
                 Console.WriteLine($"\t{++i}item of array is {item}");
             }
+
         }
 
         static int[] Sort(int[] array)
